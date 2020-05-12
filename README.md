@@ -1,5 +1,5 @@
 UPDATED:
-Forked the original to allow the original to just output 2 temperatures only into the terminal (or import and pass them into another program)
+Forked the original to allow the original to just output 2 temperatures only into the terminal (or import and pass them into another program)  I also didn't require any of the SQL/logging/etc
 
 
 
