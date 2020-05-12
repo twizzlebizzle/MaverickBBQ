@@ -2,6 +2,10 @@ UPDATED:
 Forked the original to allow the original to just output 2 temperatures only into the terminal (or import and pass them into another program)  I also didn't require any of the SQL/logging/etc
 
 I also added a second program thats very basic that just allows me to log my temperatures to google drive.  (I run this every 1-5 mins via crontab)
+It also has a function to push a Pushover notification to your phone.  (Thinking of setting temperature limits for notifications in the future).
+
+If anyone does download my rubbish code, then get in touch and i'll show you how to setup the IFTTT API.
+
 
 
 
