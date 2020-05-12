@@ -1,3 +1,9 @@
+UPDATED:
+Forked the original to allow the original to just output 2 temperatures only into the terminal (or import and pass them into another program)
+
+
+
+
 # MaverickBBQ
 Receives Wireless BBQ Thermometer Telegrams via RF-Receiver attached to Raspberry Pi
 
